@@ -1,0 +1,15 @@
+*.iml
+.idea/
+.gradle/
+**/build/
+local.properties
+.cxx/
+
+# The hub's clone of the notes repo lives here but must never be committed
+# to the code repo.
+hub/notes-repo/
+hub/test-scratch/
+testing/
+
+__pycache__/
+*.pyc
